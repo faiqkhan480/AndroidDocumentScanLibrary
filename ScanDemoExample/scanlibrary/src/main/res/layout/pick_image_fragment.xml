@@ -6,10 +6,10 @@
     android:orientation="vertical">
 
     <LinearLayout
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:background="#ffc4c2bc"
+        android:background="#00C872"
         android:orientation="horizontal"
         android:padding="15dp">
 
